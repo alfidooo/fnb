@@ -18,7 +18,7 @@
         <div class="login-container row mx-auto">
             <div class="col-lg-8 mx-auto col-sm-10 col-md-10">
                 <h1 class="text-center">Register</h1>
-                <form action="" method="POST">
+                <form action="simpan.php" method="POST">
                     <div class="mb-5">
                         <label for="name" class="form-label">Name</label>
                         <input type="text" class="form-control" name="name" id="name" placeholder="Isi name anda" required>
